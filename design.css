@@ -1,0 +1,29 @@
+html{
+    margin:0;
+    padding: 0;
+}
+body{
+    height:fit-content;
+    background: #000;
+    padding: 150px;
+}
+.trial{
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    background: #709df9de;
+    height: 500px;
+    padding: 50px;
+    width: 500px;
+}
+.login{
+    border-radius: 10px;
+    background: #ffffff;
+}
+.signup{
+    border-radius: 10px;
+    background: #ffffff;
+}
+.button{
+    justify-content: center;
+}
